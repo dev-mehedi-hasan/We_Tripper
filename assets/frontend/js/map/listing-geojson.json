@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "90.3478564",
+                    "23.7975217"
+                ]
+            },
+            "properties": {
+                "id": "ff635a541f4bf2749f288e5bdf4f9183",
+                "index": 0,
+                "isActive": true,
+                "logo": "a835c1fd45e01161a7a18d96dd400c41.jpg",
+                "image": "a835c1fd45e01161a7a18d96dd400c41.jpg",
+                "link": "https://wetripper.com/visa/we-help-you-to-make-your-visa/8",
+                "url": "http://asdf.com",
+                "name": "We help you to make your visa",
+                "category": "visa",
+                "email": "mr.jack@gmail.com",
+                "stars": "0.0",
+                "phone": "+880123456789",
+                "address": "",
+                "about": "Lorem ipsum dol\r\n",
+                "tags": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
